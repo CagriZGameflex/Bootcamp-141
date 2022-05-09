@@ -19,19 +19,26 @@ Furkan Küçük-Developer
 
 ## Ürün Açıklaması
 
-- Dejavu isimli oyunumuz gizem dolu bir macerada  hem eğlenebileceğiniz hem de öğrenebileceğiniz bir hayat kalma oyunu. 
+- Dejavu hem dikey hem yatay ekranda oynanabilen, yabancı bir adada hayatta kalmaya çalışan bir karakteri yönettiğimiz, casual bir puzzle ve hayatta kalma oyunu.
 
 ## Ürün Özellikleri
 
 - Hikaye odaklı bir senaryoya sahip olma. Belirlenmiş bir amaç.
-- 3d
+- 3D, Poly grafik
+- Alışıldık ve kolay Joystick kontrol.
 - Oyun içinde yer alan bulmaca ve ipuçlarıyla öğreticilik ve pratik düşünme.
+- İngilizce dili ile geniş kitlelere hitap etme.
+- Koalyca içerik üretilebilecek ve gelişmeye açık basit ama derin oynanış.
+- Gizem ve merak duygusu uyandıran temel döngü.
+- Tatmin edici kazanma ve tekrar oynamaya iten kaybetme hissiyatı.
 
 ## Hedef Kitle
 
 - Oyun severler
-- Hayatta kalma ve gizem çözme senaryolarına merak duyanlar
-- 15 - 65 yaş arası kullanıcılar
+- Hayatta kalma oyuncuları
+- Gizem çözme senaryolarına merak duyanlar
+- Puzzle oyuncuları
+- 12 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
 
